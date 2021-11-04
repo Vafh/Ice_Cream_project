@@ -1,1 +1,1 @@
-# Ice_Cream_project
+# Parcel boilerplate
